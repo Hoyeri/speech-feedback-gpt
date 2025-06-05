@@ -32,6 +32,8 @@ Flutter Web (결과 출력)
 - Flutter Web
 - Docker, docker-compose
 
+---
+
 ## 📜 라이선스 및 참고
 Whisper: https://github.com/openai/whisper
 
